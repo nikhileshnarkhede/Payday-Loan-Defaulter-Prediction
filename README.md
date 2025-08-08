@@ -71,15 +71,10 @@ This will start a local server and open the app in your default browser (usually
 ---
 
 ## 🚀 Deployment
-You can deploy this app to:
-- **[Streamlit Cloud](https://streamlit.io/cloud)** (free & simple)
+You can Use this app:
+- **[Streamlit Cloud]([https://streamlit.io/cloud](https://payday-loan-defaulter-prediction-21.streamlit.app/))** (free & simple)
 - **Heroku**, **Azure**, or **AWS** (requires extra config)
 
-For **Streamlit Cloud**:
-1. Push this branch (`Depoly_with_GUI`) to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io/)
-3. Connect your GitHub repo and select `app.py` as the entry point
-4. Done! Your app will be live with a public URL.
 
 ---
 
