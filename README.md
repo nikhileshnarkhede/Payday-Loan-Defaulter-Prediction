@@ -73,7 +73,6 @@ This will start a local server and open the app in your default browser (usually
 ## 🚀 Deployment
 You can Use this app:
 - **[Streamlit Cloud](https://payday-loan-defaulter-prediction-21.streamlit.app/)** (free & simple)
-- **Heroku**, **Azure**, or **AWS** (requires extra config)
 
 
 ---
@@ -85,5 +84,5 @@ This project is licensed under the MIT License — feel free to use and modify i
 
 ## ✍️ Author
 **Nikhilesh Narkhede**  
-📧 Contact: [Your Email Here]  
+📧 Contact: [nnarkhede@umassd.edu]  
 🔗 GitHub: [nikhileshnarkhede](https://github.com/nikhileshnarkhede)
